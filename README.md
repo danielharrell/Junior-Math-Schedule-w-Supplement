@@ -1,6 +1,6 @@
-# Junior-Math-Schedule-w-Supplement
+# Junior Math Schedule with Supplement
 
-This is the current schedule for Junior Math with a supplement of readings.
+Here is a PDF of the current schedule for Junior Math, with a supplement of readings.
 Changes to the document appear below.
 
 ## Edits
