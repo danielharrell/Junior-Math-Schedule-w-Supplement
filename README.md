@@ -12,7 +12,8 @@ for anyone interested in looking at it. Just click on the folder
 `LaTeX_file`. This should open the folder in your browser window. Then
 you can click on `Jun_Math_Sched.tex` to look at the file.
 
-Any changes I've made to the document appear just below, under the heading **Edits**. 
+Any changes I've made to the document appear are tracked just below, 
+under the heading **Edits**. 
 
 ## Edits
 ### August 2021
