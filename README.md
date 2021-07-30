@@ -9,7 +9,7 @@ if you like.
 
 I have also provided the plaintext file that generated the PDF
 for anyone interested in looking at it. Just click on the folder
-`LaTeX file`. This should open the folder in your browser window. Then
+`LaTeX_file`. This should open the folder in your browser window. Then
 you can click on `Jun_Math_Sched.tex` to look at the file.
 
 Any changes I've made to the document appear just below, under the heading **Edits**. 
