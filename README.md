@@ -15,6 +15,7 @@ you can click on `Jun_Math_Sched.tex` to look at the file.
 Any changes I've made to the document appear just below, under the heading **Edits**. 
 
 ## Edits
+### August 2021
 - Added pagination to supplement.
 - Redirected relevant links in schedule to 2021 manual.
 - Added "An Approach to the Arithmetic of Infinites" to regular schedule,
