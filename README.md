@@ -22,3 +22,5 @@ Any changes I've made to the document appear just below, under the heading **Edi
 at the beginning of the Leibniz sequence.
 - Added two days to main schedule to make room for "Approach."
 - Changed reference to "Notes" from "Comments" in the assignments for "Approach."
+### June 2018
+- Date of original document.  
