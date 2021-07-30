@@ -13,3 +13,5 @@ for anyone interested in it.
 - Redirected relevant links in schedule to 2021 manual.
 - Added "An Approach to the Arithmetic of Infinites" to regular schedule,
 at the beginning of the Leibniz sequence.
+- Added two days to main schedule to make room for "Approach."
+- Changed reference to "Notes" from "Comments" in the assignments for "Approach."
