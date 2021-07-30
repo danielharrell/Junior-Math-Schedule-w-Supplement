@@ -2,8 +2,11 @@
 
 Here is a PDF (`Jun_Math_Sched.pdf`) of the current schedule for Junior Math, 
 with a supplement of readings.
-Changes to the document appear below under the heading **Edits**. I have also provided
-the plaintext file that generated the PDF (`\LaTeX_file`) for anyone interested in it.
+
+Changes to the document appear below (under the heading **Edits**). 
+
+I have also provided the plaintext file that generated the PDF (click on the folder `LaTeX_file`)
+for anyone interested in it.
 
 ## Edits
 - Added pagination to supplement.
