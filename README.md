@@ -18,7 +18,7 @@ under the heading **Edits**.
 ## Edits
 ### August 2021
 - Added pagination to supplement.
-- Put "Overview" of schedule on its own page.
+- Started the first and second semester schedules on new pages.
 - Redirected relevant links in schedule to 2021 manual.
 - Added "An Approach to the Arithmetic of Infinites" to regular schedule,
 at the beginning of the Leibniz sequence.
