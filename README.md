@@ -23,5 +23,6 @@ under the heading **Edits**.
 at the beginning of the Leibniz sequence.
 - Added two days to main schedule to make room for "Approach."
 - Changed reference to "Notes" from "Comments" in the assignments for "Approach."
+- Added "A letter from Leibniz to Ehrenfried Walther von Tschirnhaus in Rome" to the supplement.
 ### June 2018
 - Date of original document.  
