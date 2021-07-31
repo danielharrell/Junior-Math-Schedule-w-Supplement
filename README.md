@@ -7,7 +7,7 @@ there, you can click on
 the **Download** button (just above the document on the right) to download the file, 
 if you like.
 
-I have also provided the plaintext file that generated the PDF
+I have also provided the plain text file that generated the PDF
 for anyone interested in looking at it. Just click on the folder
 `LaTeX_file`. This should open the folder in your browser window. Then
 you can click on `Jun_Math_Sched.tex` to look at the file.
