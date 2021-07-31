@@ -20,6 +20,8 @@ under the heading **Edits**.
 - Added pagination to supplement.
 - Started the first and second semester schedules on new pages.
 - Redirected relevant links in schedule to 2021 manual.
+- Added indication that the Leibniz "hanging chain" readings are
+no longer in the manual, and provided a link to them.
 - Added "An Approach to the Arithmetic of Infinites" to regular schedule,
 at the beginning of the Leibniz sequence.
 - Added two days to main schedule to make room for "Approach."
