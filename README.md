@@ -11,7 +11,7 @@ under the heading [Edits](#edits).
 ## Instructions
 
 Just click on `Jun_Math_Sched.pdf`
-above.
+above. (If you don't see the file, click on [this link](https://github.com/danielharrell/Junior_Math_Schedule_with_Supplement/blob/main/Jun_Math_Sched.pdf).)
 This should open the file in your browser window. From
 there, you can click on
 the **Download** button to download the file.
