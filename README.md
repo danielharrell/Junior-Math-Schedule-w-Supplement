@@ -22,6 +22,7 @@ you can click on `Jun_Math_Sched.tex` to look at the file.
 
 ## Edits
 ### August 2021
+- Added errata list for manual to first page of schedule.
 - Added pagination to supplement.
 - Started the first and second semester schedules on new pages.
 - Redirected relevant links in schedule to 2021 manual.
@@ -32,7 +33,6 @@ at the beginning of the Leibniz sequence.
 - Added two days to main schedule to make room for "Approach."
 - Changed reference to "Notes" from "Comments" in the assignments for "Approach."
 - Added "A letter from Leibniz to Ehrenfried Walther von Tschirnhaus in Rome" to the supplement.
-- Added errata list for manual to first page of schedule.
 - Added link to website for the *Principia*.
 - Added Kutler and Brann articles on Dedekind and Euclid to the supplement.
 - Added notes on *Principia* Prop. 13 Cor. 1 and Prop. 17.
