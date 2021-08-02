@@ -18,7 +18,8 @@ the **Download** button to download the file.
 
 I have also provided the plain text file that generated the PDF
 for anyone interested in looking at it. Just click on the folder
-`LaTeX_file` above. This should open the folder in your browser window. Then
+`LaTeX_file` above. (Or again if you don't see the file, click on [this link](https://github.com/danielharrell/Junior_Math_Schedule_with_Supplement/tree/main/LaTeX_file).)
+This should open the folder in your browser window. Then
 you can click on `Jun_Math_Sched.tex` to look at the file.
 
 ## Edits
