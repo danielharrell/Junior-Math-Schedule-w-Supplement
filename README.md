@@ -6,22 +6,24 @@ schedule to organize materials otherwise scattered
 in files and archon reports.
 
 Any changes I've made to the document are tracked below, 
-under the heading **Edits**.
+under the heading [Edits](#edits).
 
 ## Instructions
 
 Just click on `Jun_Math_Sched.pdf`
-above. This should open the file in your browser window. From
+above. (If you don't see the file, click on [this link](https://github.com/danielharrell/Junior_Math_Schedule_with_Supplement/blob/main/Jun_Math_Sched.pdf).)
+This should open the file in your browser window. From
 there, you can click on
 the **Download** button to download the file.
 
 I have also provided the plain text file that generated the PDF
 for anyone interested in looking at it. Just click on the folder
-`LaTeX_file`. This should open the folder in your browser window. Then
+`LaTeX_file` above. (Or again if you don't see the file, click on [this link](https://github.com/danielharrell/Junior_Math_Schedule_with_Supplement/tree/main/LaTeX_file).)
+This should open the folder in your browser window. Then
 you can click on `Jun_Math_Sched.tex` to look at the file.
 
 ## Edits
-### August 2021
+### August 2, 2021
 - Added errata list for manual to first page of schedule.
 - Added pagination to supplement.
 - Started the first and second semester schedules on new pages.
