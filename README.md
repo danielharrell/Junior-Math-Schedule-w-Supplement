@@ -13,8 +13,7 @@ under the heading **Edits**.
 Just click on `Jun_Math_Sched.pdf`
 above. This should open the file in your browser window. From
 there, you can click on
-the **Download** button (just above the document on the right) to download the file, 
-if you like.
+the **Download** button to download the file.
 
 I have also provided the plain text file that generated the PDF
 for anyone interested in looking at it. Just click on the folder
