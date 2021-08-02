@@ -29,5 +29,7 @@ at the beginning of the Leibniz sequence.
 - Added "A letter from Leibniz to Ehrenfried Walther von Tschirnhaus in Rome" to the supplement.
 - Added errata page for manual to supplement.
 - Added link to website for the *Principia*.
+- Added Kutler and Brann articles on Dedekind and Euclid to the supplement.
+- Added notes on *Principia* Prop. 13 Cor. 1 and Prop. 17.
 ### June 2018
 - Date of original document.  
