@@ -1,7 +1,16 @@
 # Junior Math Schedule with Supplement
 
 Here you can find a PDF of the current schedule for Junior Math 
-with a supplement of readings. Just click on `Jun_Math_Sched.pdf`
+with a supplement of readings. The idea behind it is to use the
+schedule to organize materials otherwise scattered
+in files and archon reports.
+
+Any changes I've made to the document are tracked below, 
+under the heading **Edits**.
+
+## Instructions
+
+Just click on `Jun_Math_Sched.pdf`
 above. This should open the file in your browser window. From
 there, you can click on
 the **Download** button (just above the document on the right) to download the file, 
@@ -11,9 +20,6 @@ I have also provided the plain text file that generated the PDF
 for anyone interested in looking at it. Just click on the folder
 `LaTeX_file`. This should open the folder in your browser window. Then
 you can click on `Jun_Math_Sched.tex` to look at the file.
-
-Any changes I've made to the document are tracked just below, 
-under the heading **Edits**. 
 
 ## Edits
 ### August 2021
