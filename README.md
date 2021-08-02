@@ -6,7 +6,7 @@ schedule to organize materials otherwise scattered
 in files and archon reports.
 
 Any changes I've made to the document are tracked below, 
-under the heading **Edits**.
+under the heading [Edits](#edits).
 
 ## Instructions
 
