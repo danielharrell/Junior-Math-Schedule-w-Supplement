@@ -21,7 +21,7 @@ for anyone interested in looking at it. Just click on the folder
 you can click on `Jun_Math_Sched.tex` to look at the file.
 
 ## Edits
-### August 2021
+### August 2, 2021
 - Added errata list for manual to first page of schedule.
 - Added pagination to supplement.
 - Started the first and second semester schedules on new pages.
