@@ -27,7 +27,7 @@ at the beginning of the Leibniz sequence.
 - Added two days to main schedule to make room for "Approach."
 - Changed reference to "Notes" from "Comments" in the assignments for "Approach."
 - Added "A letter from Leibniz to Ehrenfried Walther von Tschirnhaus in Rome" to the supplement.
-- Added errata page for manual to supplement.
+- Added errata list for manual to first page of schedule.
 - Added link to website for the *Principia*.
 - Added Kutler and Brann articles on Dedekind and Euclid to the supplement.
 - Added notes on *Principia* Prop. 13 Cor. 1 and Prop. 17.
