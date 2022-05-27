@@ -23,6 +23,8 @@ This should open the folder in your browser window. Then
 you can click on `Jun_Math_Sched.tex` to look at the file.
 
 ## Edits
+### May 27, 2022
+- Changed footnote counter from symbol to number.
 ### August 2, 2021
 - Added errata list for manual to first page of schedule.
 - Added pagination to supplement.
