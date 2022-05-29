@@ -10,8 +10,9 @@ under the heading [Edits](#edits).
 
 ## Instructions
 
-Just click on `Jun_Math_Sched.pdf`
-above. (If you don't see the file, click on [this link](https://github.com/danielharrell/Junior_Math_Schedule_with_Supplement/blob/main/Jun_Math_Sched.pdf).)
+Just click on `LaTeX_file` file above, to open that folder;
+then on `Jun_Math_Sched.pdf`.
+(Alternatively, click on [this link](https://github.com/danielharrell/Junior_Math_Schedule_with_Supplement/blob/7a5f1d4a190b844a5b348a8f43c6cadba822796b/LaTeX_file/Jun_Math_Sched.pdf).)
 This should open the file in your browser window. From
 there, you can click on
 the **Download** button to download the file.
