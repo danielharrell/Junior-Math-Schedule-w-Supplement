@@ -40,3 +40,5 @@ at the beginning of the Leibniz sequence.
 - Added notes on *Principia* Prop. 13 Cor. 1 and Prop. 17.
 ### June 2018
 - Date of original document.  
+## TODO
+- Reorganize filesystem for hyperlinked documents not in supplement.
