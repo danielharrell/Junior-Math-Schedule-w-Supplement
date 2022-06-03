@@ -1,16 +1,29 @@
 \documentclass[10pt]{article}
 \synctex=1
 \usepackage{geometry}
+
+%\usepackage{pagenote} Another package for endnotes
+%\makepagenote
+
+%\usepackage{endnotes}
+
 \usepackage{parskip}
 \usepackage{enumitem}
 %\setitemize{noitemsep}
 %\usepackage{pfnote}
 %\usepackage{dblfnote}
 %\usepackage{bigfoot}
+
+% Comment out package below to make for endnotes
 \usepackage[flushmargin,perpage]{footmisc}
+
 \usepackage{pdfpages}
 \usepackage[colorlinks=true,linkcolor={blue}]{hyperref}
+
 \newcounter{includepdfpage}
+
+% For endnotes
+%\let\footnote=\endnote
 
 \begin{document}
 \setlist{nosep}
@@ -24,7 +37,7 @@
 \bigskip
 
 \begin{enumerate}[noitemsep]
-  \item Selections from Galileo's \emph{Two New Sciences}, NE 68--93.
+  \item Selections from Galileo's \emph{Two New Sciences}, NE 68--93.%\endnote{An example of an endnote.}
   \item Essays of Leibniz, with notes:
     \begin{enumerate}
       \item ``An Approach to the Arithmetic of Infinites.''
@@ -454,6 +467,9 @@ supplement).}
 	\item Sections 14--15.
 	\item Sections 16--17.
 \end{enumerate}
+
+%\theendnotes
+
 \newpage
 \begin{center}
 	\textsc{\small{Second Semester}}
@@ -675,6 +691,16 @@ supplement).}
 			Browse through all the corollaries.
 		\item Proposition 69 with its corollaries.
 			Scholium after 69.  \end{enumerate}
+% For endnotes page
+%\newpage
+%\begingroup
+%\parindent 0pt
+%\parskip 2ex
+%\def\enotesize{\normalsize}
+%% \pdfbookmark{Endnotes}{Endnotes}
+%\theendnotes
+%\endgroup
+
 	\newpage \setcounter{page}{1}
 	\includepdf[pages=-,link,linkname=supple,pagecommand={\thispagestyle{headings}\refstepcounter{includepdfpage}\label{supple.\theincludepdfpage}}]{supplement.pdf}
 \end{document}
