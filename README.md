@@ -44,3 +44,6 @@ at the beginning of the Leibniz sequence.
 - Date of original document.  
 ## TODO
 - Reorganize filesystem for hyperlinked documents not in supplement.
+- Perhaps make footnotes into endnotes.
+- Added proposition from I.4 to assignment III.4
+- Go through emails 2021-22 to find more documents to put in Supplement
