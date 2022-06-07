@@ -43,6 +43,7 @@ at the beginning of the Leibniz sequence.
 ### June 2018
 - Date of original document.  
 ## TODO
+- [ ] Indicate option to read Dedekind (and Cantor) end of secend semester.
 - [ ] Reorganize filesystem for hyperlinked documents not in supplement.
 - [ ] Perhaps make footnotes into endnotes.
 - [ ] Added proposition from I.4 to assignment III.4
