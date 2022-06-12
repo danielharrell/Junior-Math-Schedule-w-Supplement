@@ -50,3 +50,4 @@ at the beginning of the Leibniz sequence.
 - [ ] Added proposition from I.4 to assignment III.4
 - [ ] Go through emails 2021-22 to find more documents to put in Supplement
 - [ ] Make Cantor reading non-optional?
+- [ ] Add Leibniz Isochronic Line reading into supplement
