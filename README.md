@@ -51,3 +51,4 @@ at the beginning of the Leibniz sequence.
 - [ ] Go through emails 2021-22 to find more documents to put in Supplement
 - [ ] Make Cantor reading non-optional?
 - [ ] Add Leibniz Isochronic Line reading into supplement
+- [ ] *New Project*: pull out Newton notes for a separate manual of notes
