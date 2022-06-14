@@ -21,12 +21,16 @@ I have also provided the plain text file that generated the PDF
 for anyone interested in looking at it. Just click on `Jun_Math_Sched.tex` inside `LaTeX_file` above. (Alternatively, click on [this link](https://github.com/danielharrell/Junior_Math_Schedule_with_Supplement/tree/main/LaTeX_file).)
 
 ## Edits
+  
 ### June 2022
 - Deleted errata list from first page of schedule. (The manual has been corrected.)
 - Updated link to 2022 manual.
 - Corrected reference to year of Michael Dink archon report. 
 ### May 27, 2022
 - Changed footnote counter from symbol to number.
+<details>
+  <summary>Click to read more</summary>
+  
 ### August 2, 2021
 - Added errata list for manual to first page of schedule.
 - Added pagination to supplement.
@@ -44,9 +48,14 @@ at the beginning of the Leibniz sequence.
 - Added notes on *Principia* Prop. 13 Cor. 1 and Prop. 17.
 ### June 2018
 - Date of original document.  
-## TODO
+</details>
+
+## To Do
+<details>
+  <summary>Click to read</summary>
+  
 - [ ] Indicate option to read Dedekind (and Cantor) end of secend semester.
-- [ ] Flag paper topics and add to supplement
+- [X] Flag paper topics and add to supplement
 - [ ] Reorganize filesystem for hyperlinked documents not in supplement.
 - [ ] Perhaps make footnotes into endnotes.
 - [ ] Added proposition from I.4 to assignment III.4
@@ -54,3 +63,4 @@ at the beginning of the Leibniz sequence.
 - [ ] Make Cantor reading non-optional?
 - [ ] Add Leibniz Isochronic Line reading into supplement
 - [ ] *New Project*: pull out Newton notes for a separate manual of notes
+</details>
