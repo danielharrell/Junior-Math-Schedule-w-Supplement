@@ -21,8 +21,9 @@ I have also provided the plain text file that generated the PDF
 for anyone interested in looking at it. Just click on `Jun_Math_Sched.tex` inside `LaTeX_file` above. (Alternatively, click on [this link](https://github.com/danielharrell/Junior_Math_Schedule_with_Supplement/tree/main/LaTeX_file).)
 
 ## Edits
-### June 1, 2022
+### June 2022
 - Deleted errata list from first page of schedule. (The manual has been corrected.)
+- Updated link to 2022 manual. 
 ### May 27, 2022
 - Changed footnote counter from symbol to number.
 ### August 2, 2021
