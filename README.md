@@ -55,7 +55,7 @@ at the beginning of the Leibniz sequence.
   <summary>Click to read</summary>
   
 - [ ] Indicate option to read Dedekind (and Cantor) end of secend semester.
-- [ ] Flag paper topics and add to supplement
+- [X] Flag paper topics and add to supplement
 - [ ] Reorganize filesystem for hyperlinked documents not in supplement.
 - [ ] Perhaps make footnotes into endnotes.
 - [ ] Added proposition from I.4 to assignment III.4
