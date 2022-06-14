@@ -56,6 +56,9 @@ at the beginning of the Leibniz sequence.
   
 - [ ] Indicate option to read Dedekind (and Cantor) end of secend semester.
 - [X] Flag paper topics and add to supplement
+- [ ] Add Newton Leibniz lemma 10 from old manual
+- [ ] Check to see if other readings from old manual are flagged.
+- [ ] Get Frege article from Kutler manual and reference in schedule.
 - [ ] Reorganize filesystem for hyperlinked documents not in supplement.
 - [ ] Perhaps make footnotes into endnotes.
 - [ ] Added proposition from I.4 to assignment III.4
