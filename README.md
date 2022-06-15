@@ -27,6 +27,8 @@ for anyone interested in looking at it. Just click on `Jun_Math_Sched.tex` insid
 - Updated link to 2022 manual.
 - Corrected reference to year of Michael Dink archon report. 
 - Added Isochronic Line readings as optional.
+- Improved spacing in document.
+- Added *Principia* I.4 cor.9 to schedule.
 ### May 27, 2022
 - Changed footnote counter from symbol to number.
 <details>
@@ -62,7 +64,7 @@ at the beginning of the Leibniz sequence.
 - [ ] Get Frege article from Kutler manual and reference in schedule.
 - [ ] Reorganize filesystem for hyperlinked documents not in supplement.
 - [ ] Perhaps make footnotes into endnotes.
-- [ ] Added proposition from I.4 to assignment III.4
+- [X] Added proposition from I.4 to assignment III.4
 - [ ] Go through emails 2021-22 to find more documents to put in Supplement
 - [ ] Make Cantor reading non-optional?
 - [X] Add Leibniz Isochronic Line reading into supplement
