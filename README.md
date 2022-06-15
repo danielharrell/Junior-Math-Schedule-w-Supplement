@@ -65,6 +65,7 @@ at the beginning of the Leibniz sequence.
 - [ ] Reorganize filesystem for hyperlinked documents not in supplement.
 - [ ] Perhaps make footnotes into endnotes.
 - [X] Added proposition from I.4 to assignment III.4
+- [ ] Flag missing props from Densmore
 - [ ] Go through emails 2021-22 to find more documents to put in Supplement
 - [ ] Make Cantor reading non-optional?
 - [X] Add Leibniz Isochronic Line reading into supplement
