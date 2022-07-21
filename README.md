@@ -58,6 +58,7 @@ at the beginning of the Leibniz sequence.
   <summary>Click to read</summary>
   
 - [ ] Indicate option to read Dedekind (and Cantor) end of secend semester.
+- [ ] Complete revision of Cantor notes and include in schedule
 - [X] Flag paper topics and add to supplement
 - [ ] Add Newton Leibniz lemma 10 from old manual
 - [ ] Check to see if other readings from old manual are flagged.
