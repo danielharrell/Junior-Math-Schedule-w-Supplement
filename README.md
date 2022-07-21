@@ -72,4 +72,5 @@ at the beginning of the Leibniz sequence.
 - [X] Add Leibniz Isochronic Line reading into supplement.
 - [ ] *New Project*: pull out Newton notes for a separate manual of notes
 - [ ] Correct Kutler-Brann exchange and retypeset.
+- [ ] Link to Benardete article on infinite and measurement
 </details>
