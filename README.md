@@ -69,7 +69,7 @@ at the beginning of the Leibniz sequence.
 - [ ] Go through emails 2021-22 to find more documents to put in Supplement.
 - [X] Add Leibniz Isochronic Line reading into supplement.
 - [ ] Correct Kutler-Brann exchange and retypeset.
-- [ ] Link to Benardete article on infinite and measurement
+- [X] Link to Benardete article on infinite and measurement
 
 ### Possible To Do's
   <details>
