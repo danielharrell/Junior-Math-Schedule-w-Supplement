@@ -71,9 +71,12 @@ at the beginning of the Leibniz sequence.
 - [ ] Correct Kutler-Brann exchange and retypeset.
 - [ ] Link to Benardete article on infinite and measurement
 
-## Possible To Do's
+### Possible To Do's
+  <details>
+    <summary>Click to read</summary>
 
 - [ ] Perhaps make footnotes into endnotes.
 - [ ] Make Cantor reading non-optional?
 - [ ] *New Project*: pull out Newton notes for a separate manual of notes
+  </details>
 </details>
