@@ -70,13 +70,13 @@ at the beginning of the Leibniz sequence.
 - [X] Add Leibniz Isochronic Line reading into supplement.
 - [ ] Correct Kutler-Brann exchange and retypeset.
 - [ ] Link to Benardete article on infinite and measurement
-</details>
 
 ### Possible To Do's
-<details>
-  <summary>Click to read</summary>
+  <details>
+    <summary>Click to read</summary>
 
 - [ ] Perhaps make footnotes into endnotes.
 - [ ] Make Cantor reading non-optional?
 - [ ] *New Project*: pull out Newton notes for a separate manual of notes
+  </details>
 </details>
