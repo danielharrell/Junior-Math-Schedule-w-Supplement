@@ -57,19 +57,22 @@ at the beginning of the Leibniz sequence.
 <details>
   <summary>Click to read</summary>
   
-- [ ] Indicate option to read Dedekind (and Cantor) end of secend semester.
-- [ ] Complete revision of Cantor notes and include in schedule.
+- [X] Indicate option to read Dedekind (and Cantor) end of second semester.
+- [X] Complete revision of Cantor notes and include in schedule.
 - [X] Flag paper topics and add to supplement.
 - [ ] Add Newton Leibniz lemma 10 from old manual.
 - [ ] Check to see if other readings from old manual are flagged.
 - [ ] Get Frege article from Kutler manual and reference in schedule.
 - [ ] Reorganize filesystem for hyperlinked documents not in supplement.
-- [ ] Perhaps make footnotes into endnotes.
 - [X] Added proposition from I.4 to assignment III.4
 - [ ] Flag missing props from Densmore.
 - [ ] Go through emails 2021-22 to find more documents to put in Supplement.
-- [ ] Make Cantor reading non-optional?
 - [X] Add Leibniz Isochronic Line reading into supplement.
-- [ ] *New Project*: pull out Newton notes for a separate manual of notes
 - [ ] Correct Kutler-Brann exchange and retypeset.
+
+## Possible To Do's
+- [ ] Perhaps make footnotes into endnotes.
+- [ ] Make Cantor reading non-optional?
+- [ ] *New Project*: pull out Newton notes for a separate manual of notes
+
 </details>
