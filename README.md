@@ -62,7 +62,9 @@ at the beginning of the Leibniz sequence.
 - [X] Flag paper topics and add to supplement.
 - [ ] Add Newton Leibniz lemma 10 from old manual.
 - [ ] Check to see if other readings from old manual are flagged.
-- [ ] Get Frege article from Kutler manual and reference in schedule.
+- [X] Get Frege article from Kutler manual and reference in schedule.
+- [X] Link to Kutler Dedekind Cut article.
+- [ ] Put link to Kutler calculus manual.
 - [ ] Reorganize filesystem for hyperlinked documents not in supplement.
 - [X] Added proposition from I.4 to assignment III.4
 - [ ] Flag missing props from Densmore.
