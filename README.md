@@ -32,9 +32,9 @@ for anyone interested in looking at it. Just click on `Jun_Math_Sched.tex` insid
 - Added Cor.9 to day on *Principia* I.4 (used in III.4 later).
 - Added Leibniz "Isochronic Line."
 - Added J. Benardete "Continuity and Measurement" article.
-
 <details>
   <summary>Click to read more</summary>
+  
 ### June 2022
 - Deleted errata list from first page of schedule. (The manual has been corrected.)
 - Updated link to 2022 manual.
