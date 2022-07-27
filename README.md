@@ -21,7 +21,20 @@ I have also provided the plain text file that generated the PDF
 for anyone interested in looking at it. Just click on `Jun_Math_Sched.tex` inside `LaTeX_file` above. (Alternatively, click on [this link](https://github.com/danielharrell/Junior_Math_Schedule_with_Supplement/tree/main/LaTeX_file).)
 
 ## Edits
-  
+
+### July 2022
+- Indicated option to read Dedekind (and Cantor) end of second semester.
+- Completed a revision of Cantor notes and included in schedule.
+- Added paper topics from archon reports.
+- Added Frege "Function" article.
+- Added Kutler "Dedekind cut" article.
+- Added Kutler calculus manual.
+- Added Cor.9 to day on *Principia* I.4 (used in III.4 later).
+- Added Leibniz "Isochronic Line."
+- Added J. Benardete "Continuity and Measurement" article.
+
+<details>
+  <summary>Click to read more</summary>
 ### June 2022
 - Deleted errata list from first page of schedule. (The manual has been corrected.)
 - Updated link to 2022 manual.
@@ -31,8 +44,6 @@ for anyone interested in looking at it. Just click on `Jun_Math_Sched.tex` insid
 - Added *Principia* I.4 cor.9 to schedule.
 ### May 27, 2022
 - Changed footnote counter from symbol to number.
-<details>
-  <summary>Click to read more</summary>
   
 ### August 2, 2021
 - Added errata list for manual to first page of schedule.
@@ -57,21 +68,12 @@ at the beginning of the Leibniz sequence.
 <details>
   <summary>Click to read</summary>
   
-- [X] Indicate option to read Dedekind (and Cantor) end of secend semester.
-- [X] Complete revision of Cantor notes and include in schedule.
-- [X] Flag paper topics and add to supplement.
 - [ ] Add Newton Leibniz lemma 10 from old manual.
 - [ ] Check to see if other readings from old manual are flagged.
-- [X] Get Frege article from Kutler manual and reference in schedule.
-- [X] Link to Kutler Dedekind Cut article.
-- [X] Put link to Kutler calculus manual.
 - [ ] Reorganize filesystem for hyperlinked documents not in supplement.
-- [X] Added proposition from I.4 to assignment III.4
 - [ ] Flag missing props from Densmore.
 - [ ] Go through emails 2021-22 to find more documents to put in Supplement.
-- [X] Add Leibniz Isochronic Line reading into supplement.
 - [ ] Correct Kutler-Brann exchange and retypeset.
-- [X] Link to Benardete article on infinite and measurement
 
 ### Possible To Do's
   <details>
