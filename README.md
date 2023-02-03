@@ -74,6 +74,8 @@ at the beginning of the Leibniz sequence.
 - [ ] Flag missing props from Densmore.
 - [ ] Go through emails 2021-22 to find more documents to put in Supplement.
 - [ ] Correct Kutler-Brann exchange and retypeset.
+- [ ] Replace old Sachs note with better formatted note
+- [ ] Include Prop 1 cor 3 on schedule
 
 ### Possible To Do's
   <details>
