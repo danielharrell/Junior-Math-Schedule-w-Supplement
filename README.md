@@ -76,6 +76,7 @@ at the beginning of the Leibniz sequence.
 - [ ] Correct Kutler-Brann exchange and retypeset.
 - [ ] Replace old Sachs note with better formatted note
 - [ ] Include Prop 1 cor 3 on schedule
+- [ ] Include Peter Suber articles from St. John's Review for set theory
 
 ### Possible To Do's
   <details>
