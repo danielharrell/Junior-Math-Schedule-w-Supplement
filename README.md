@@ -77,6 +77,11 @@ at the beginning of the Leibniz sequence.
 - [ ] Replace old Sachs note with better formatted note
 - [ ] Include Prop 1 cor 3 on schedule
 - [ ] Include Peter Suber articles from St. John's Review for set theory
+- [ ] Include reference to Santa Fe schedule for Cantor original texts
+- [ ] Include links to Cantor original texts
+- [ ] For Cantor supplement: correct missing reference in note to Sect. 13
+- [ ] For Cantor supplement: Add "Cantorian Argument for Incompleteness" mentioned in note on Sect. 13
+- [ ] For Cantor supplement: Mention Cartesian plane coordinates argument in Section 13 for earlier sections.
 
 ### Possible To Do's
   <details>
