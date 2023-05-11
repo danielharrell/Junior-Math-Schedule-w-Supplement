@@ -82,6 +82,7 @@ at the beginning of the Leibniz sequence.
 - [ ] For Cantor supplement: correct missing reference in note to Sect. 13
 - [ ] For Cantor supplement: Add "Cantorian Argument for Incompleteness" mentioned in note on Sect. 13
 - [ ] For Cantor supplement: Mention Cartesian plane coordinates argument in Section 13 for earlier sections.
+- [ ] Add Proportion, Variation and Equation to schedule with link
 
 ### Possible To Do's
   <details>
