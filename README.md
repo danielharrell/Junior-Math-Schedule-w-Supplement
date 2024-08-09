@@ -22,7 +22,8 @@ for anyone interested in looking at it. Just click on `Jun_Math_Sched.tex` insid
 
 ## Edits
 ### August 2024
-- Updated links to non-supplement files
+- Updated links to non-supplement files.
+- Added Fermat paper and note to Fermat.
 ### July 2022
 - Indicated option to read Dedekind (and Cantor) end of second semester.
 - Completed a revision of Cantor notes and included in schedule.
