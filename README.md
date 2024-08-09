@@ -21,7 +21,8 @@ I have also provided the plain text file that generated the PDF
 for anyone interested in looking at it. Just click on `Jun_Math_Sched.tex` inside `LaTeX_file` above. (Alternatively, click on [this link](https://github.com/danielharrell/Junior_Math_Schedule_with_Supplement/tree/main/LaTeX_file).)
 
 ## Edits
-
+### August 2024
+- Updated links to non-supplement files
 ### July 2022
 - Indicated option to read Dedekind (and Cantor) end of second semester.
 - Completed a revision of Cantor notes and included in schedule.
